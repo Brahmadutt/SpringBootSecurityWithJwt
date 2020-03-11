@@ -26,6 +26,7 @@ dependencies {
 	compile group: 'org.bouncycastle', name: 'bcpkix-jdk15on', version: '1.55'
 	compile group: 'org.bouncycastle', name: 'bcprov-jdk14', version: '1.55'
 	compile group: 'org.json', name: 'json', version: '20180813'
+	compile group: 'org.owasp.esapi', name: 'esapi', version: '2.2.0.0'
 	
 }
 
